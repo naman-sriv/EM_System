@@ -33,7 +33,3 @@ To retrieve a specific employee by their ID, send a GET request to /api/employee
 To create a new employee, send a POST request to /api/employees with the employee details in the request body.
 To update an existing employee's details, send a PUT request to /api/employees/{id} with the updated information.
 To delete an employee, send a DELETE request to /api/employees/{id}.
-
-
-![image](https://github.com/user-attachments/assets/86ee7701-3a7c-4d9e-a4a7-a0d936779585)
-
